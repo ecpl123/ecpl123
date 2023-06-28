@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ecpl123
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m currently interested in Web Development
+- 🌱 I’m currently learning react
 
 <!---
 ecpl123/ecpl123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
